@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-c34oh3.pixk.net/sitemap.xml
